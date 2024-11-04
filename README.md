@@ -1,4 +1,4 @@
-### <h1 align="center">This are my Bug-Reporting examples using Excel FastTrackIT Dummy Site</h1>
+### <h1 align="center">This are my Bug-Reporting examples using Excel - FastTrackIT Dummy Site</h1>
 
 ### Bug Report #1
 <img src= https://i.ibb.co/vhFym9z/Bug-Reporting-1.png>
