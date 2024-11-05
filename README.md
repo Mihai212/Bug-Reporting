@@ -1,6 +1,10 @@
 ### <h1 align="center">This are my Bug-Reporting examples using Excel - FastTrackIT Dummy Site</h1>
 
-### Bug Report #1
+## Jira Bug Report
+
+<img src = https://github.com/Mihai212/Assignments-From-FastTrackIT-Course/blob/main/Jira-%20Bug%20Reporting%20Assignment%20Rezolved.png>
+
+## Bug Report #1
 <img src= https://i.ibb.co/vhFym9z/Bug-Reporting-1.png>
 
 ## Bug Report #2
